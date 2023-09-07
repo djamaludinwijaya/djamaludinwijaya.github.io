@@ -167,12 +167,12 @@ nav{
 	font-size: 5rem;
 	color:#17d1ac;
 }
-.about-text h2{
+.about-text h4{
 	font-size: 3rem;
 	color:#FFFFFF;
 	font-weight: 400;
 }
-.about-text h1,h2{
+.about-text h1,h4{
 	margin: 0px;
 	padding: 0px;
 }
